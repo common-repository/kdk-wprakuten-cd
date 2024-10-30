@@ -1,0 +1,433 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: kdk-wprakuten\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-15 20:43-0300\n"
+"PO-Revision-Date: 2012-06-15 20:49-0300\n"
+"Last-Translator: Johnathan David <johnathan@kodokuman.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;esc_html_e;esc_html__\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: index.php:29
+msgid "O Rakuten cd depende do kdk-wprakuten"
+msgstr "Rakuten CD サーチは kdk-wprakutenプラグライン依存しています。kdk-wprakutenをインスタントして下さい。"
+
+#: tests/trans.php:3
+msgid "__developerId"
+msgstr "デベロッパーID"
+
+#: tests/trans.php:4
+msgid "__affiliateId"
+msgstr "楽天のアフィリエイトID"
+
+#: tests/trans.php:5
+msgid "__operation"
+msgstr "操作"
+
+#: tests/trans.php:6
+msgid "__version"
+msgstr "バージョン"
+
+#: tests/trans.php:7
+#: tests/trans.php:41
+msgid "title"
+msgstr "CDタイトル"
+
+#: tests/trans.php:8
+msgid "artistName"
+msgstr "アーティスト名"
+
+#: tests/trans.php:9
+#: tests/trans.php:36
+msgid "label"
+msgstr "発売元名"
+
+#: tests/trans.php:10
+#: tests/trans.php:31
+msgid "jan"
+msgstr "JANコード"
+
+#: tests/trans.php:11
+msgid "__hits"
+msgstr "1ページあたりの取得件数"
+
+#: tests/trans.php:12
+msgid "__page"
+msgstr "取得ページ"
+
+#: tests/trans.php:13
+msgid "__availability"
+msgstr "在庫状況"
+
+#: tests/trans.php:14
+msgid "__outOfStockFlag"
+msgstr "品切れ等購入不可商品表示フラグ"
+
+#: tests/trans.php:16
+msgid "sort"
+msgstr "ソート"
+
+#: tests/trans.php:17
+msgid "sort_standard"
+msgstr "標準"
+
+#: tests/trans.php:18
+msgid "sort_sales"
+msgstr "売れている"
+
+#: tests/trans.php:19
+msgid "sort_+releaseDate"
+msgstr "発売日(古い)"
+
+#: tests/trans.php:20
+msgid "sort_-releaseDate"
+msgstr "発売日(新しい)"
+
+#: tests/trans.php:21
+msgid "sort_+itemPrice"
+msgstr "価格が安い"
+
+#: tests/trans.php:22
+msgid "sort_-itemPrice"
+msgstr "価格が高い"
+
+#: tests/trans.php:23
+msgid "sort_reviewCount"
+msgstr "レビューの件数が多い"
+
+#: tests/trans.php:24
+msgid "sort_reviewAverage"
+msgstr "レビューの評価(平均)が高い"
+
+#: tests/trans.php:25
+#: tests/trans.php:57
+msgid "limitedFlag"
+msgstr "限定フラグ"
+
+#: tests/trans.php:26
+msgid "__carrier"
+msgstr "キャリア"
+
+#: tests/trans.php:27
+msgid "__genreInformationFlag"
+msgstr "ジャンルごとの商品数取得フラグ"
+
+#: tests/trans.php:30
+msgid "id"
+msgstr "CDのJANコード"
+
+#: tests/trans.php:32
+msgid "catchcopy"
+msgstr "曲目"
+
+#: tests/trans.php:33
+msgid "description"
+msgstr "曲目"
+
+#: tests/trans.php:34
+msgid "itemCaption"
+msgstr "商品説明文"
+
+#: tests/trans.php:35
+msgid "shopName"
+msgstr "発売元名"
+
+#: tests/trans.php:37
+msgid "imageUrl"
+msgstr "商品画像"
+
+#: tests/trans.php:38
+msgid "mediumImageUrl"
+msgstr "商品画像"
+
+#: tests/trans.php:39
+msgid "thumbUrl"
+msgstr "商品画像"
+
+#: tests/trans.php:40
+msgid "smallImageUrl"
+msgstr "商品画像"
+
+#: tests/trans.php:42
+msgid "price"
+msgstr "定価"
+
+#: tests/trans.php:43
+msgid "itemPrice"
+msgstr "税込み販売価格"
+
+#: tests/trans.php:44
+msgid "salePrice"
+msgstr "定価"
+
+#: tests/trans.php:45
+msgid "listPrice"
+msgstr "定価"
+
+#: tests/trans.php:46
+#: tests/trans.php:47
+msgid "affiliateUrl"
+msgstr "URL"
+
+#: tests/trans.php:48
+msgid "url"
+msgstr "URL"
+
+#: tests/trans.php:49
+msgid "itemUrl"
+msgstr "URL"
+
+#: tests/trans.php:50
+#: tests/trans.php:51
+msgid "affiliateRate"
+msgstr "楽天のアフィリエイトID"
+
+#: tests/trans.php:52
+msgid "reviewCount"
+msgstr "レビュー件数"
+
+#: tests/trans.php:53
+msgid "reviewAverage"
+msgstr "レビュー平均"
+
+#: tests/trans.php:54
+msgid "other"
+msgstr "その他"
+
+#: tests/trans.php:55
+msgid "availability"
+msgstr "在庫状況"
+
+#: tests/trans.php:56
+msgid "postageFlag"
+msgstr "送料フラグ"
+
+#: tests/trans.php:58
+msgid "booksGenreId"
+msgstr "楽天ブックスジャンルID"
+
+#: tests/trans.php:61
+msgid "availability_0"
+msgstr "すべての商品"
+
+#: tests/trans.php:62
+msgid "availability_1"
+msgstr "在庫あり"
+
+#: tests/trans.php:63
+msgid "availability_2"
+msgstr "3～5日以内に発送予定"
+
+#: tests/trans.php:64
+msgid "availability_3"
+msgstr "3～7日以内に発送予定"
+
+#: tests/trans.php:65
+msgid "availability_4"
+msgstr "メーカー取り寄せ"
+
+#: tests/trans.php:66
+msgid "availability_5"
+msgstr "予約受付中"
+
+#: tests/trans.php:67
+msgid "availability_6"
+msgstr "メーカーに在庫確認"
+
+#: tests/trans.php:69
+msgid "outOfStockFlag_0"
+msgstr "品切れや販売終了など購入不可の商品は結果に表示させない"
+
+#: tests/trans.php:70
+msgid "outOfStockFlag_1"
+msgstr "切れや販売終了など購入不可の商品を結果に表示させる"
+
+#: tests/trans.php:72
+msgid "limitedFlag_0"
+msgstr "すべての商品"
+
+#: tests/trans.php:73
+msgid "limitedFlag_1"
+msgstr "限定版商品のみ"
+
+#: tests/trans.php:74
+msgid "carrier_0"
+msgstr "PC"
+
+#: tests/trans.php:75
+msgid "carrier_1"
+msgstr "モバイル"
+
+#: tests/trans.php:77
+msgid "genreInformationFlag_0"
+msgstr "ジャンルごとの商品数の情報を取得しない"
+
+#: tests/trans.php:78
+msgid "genreInformationFlag_1"
+msgstr "ジャンルごとの商品数の情報を取得する"
+
+#: tests/trans.php:80
+msgid "Pesquisa de CDs"
+msgstr "CD検索"
+
+#: tests/trans.php:81
+msgid "CDs"
+msgstr "CD検索"
+
+#~ msgid "Pesquisa de livros"
+#~ msgstr "CD検索"
+
+#~ msgid "You do not have permission to upload files."
+#~ msgstr "あなたには権限がありません"
+
+#~ msgid "developerId"
+#~ msgstr "デベロッパーID"
+
+#~ msgid "version"
+#~ msgstr "バージョン"
+
+#~ msgid "hits"
+#~ msgstr "1ページあたりの取得件数"
+
+#~ msgid "page"
+#~ msgstr "取得ページ"
+
+#~ msgid "Pesquisa de produtos"
+#~ msgstr "商品検索"
+
+#~ msgid "Rakuten product"
+#~ msgstr "楽天商品"
+
+#~ msgid "Configuracao"
+#~ msgstr "設定"
+
+#~ msgid "Rakuten affiliate id"
+#~ msgstr "楽天のアフィリエイトID"
+
+#~ msgid "Rakuten api settings"
+#~ msgstr "楽天APIの設定"
+
+#~ msgid "Se tiver o affiliate id do Rakuten digite porfavor."
+#~ msgstr "もし楽天のアフィリエイトIDがあれば、記入してください。"
+
+#~ msgid "Mais detalhes %s"
+#~ msgstr "詳細 %s"
+
+#~ msgid "Rakuten %s"
+#~ msgstr "楽天 %s"
+
+#~ msgid "Rakuten"
+#~ msgstr "楽天"
+
+#~ msgid "Nome do livro"
+#~ msgstr "書籍名"
+
+#~ msgid "Autor"
+#~ msgstr "著者名"
+
+#~ msgid "Editora"
+#~ msgstr "出版社"
+
+#~ msgid "ISBN"
+#~ msgstr "ISBNコード"
+
+#~ msgid "Ordem"
+#~ msgstr "ソート"
+
+#~ msgid "Padrao"
+#~ msgstr "標準"
+
+#~ msgid "Mais vendido"
+#~ msgstr "売れている順"
+
+#~ msgid "Data de lancamento (Antigo)"
+#~ msgstr "発売日(古い)"
+
+#~ msgid "Data de lancamento (Novo)"
+#~ msgstr "発売日(新しい)"
+
+#~ msgid "Mais barato"
+#~ msgstr "値段安い順"
+
+#~ msgid "Mais caro"
+#~ msgstr "値段が高い順"
+
+#~ msgid "Mais comentarios"
+#~ msgstr "レビュー順"
+
+#~ msgid "Mais comentarios (media)"
+#~ msgstr "レビュー平均順"
+
+#~ msgid "Pesquisar"
+#~ msgstr "検索"
+
+#~ msgid "Pesquisando...."
+#~ msgstr "検索中"
+
+#~ msgid "Palavra chave"
+#~ msgstr "検索キーワード"
+
+#~ msgid "Taxas de afiliados (ascendente)"
+#~ msgstr "アフィリエイト料率順（昇順）"
+
+#~ msgid "Taxas de afiliados (decrescente)"
+#~ msgstr "アフィリエイト料率順（降順）"
+
+#~ msgid "Comentarios (ascendente)"
+#~ msgstr "レビュー件数順（昇順）"
+
+#~ msgid "Comentarios (decrescente)"
+#~ msgstr "レビュー件数順（降順）"
+
+#~ msgid "Media de comentarios (ascendente)"
+#~ msgstr "レビュー平均順（昇順）"
+
+#~ msgid "Media de comentarios (decrescente)"
+#~ msgstr "レビュー平均順（降順）"
+
+#~ msgid "Preco (ascendente)"
+#~ msgstr "価格順（昇順）"
+
+#~ msgid "Preco (decrescente)"
+#~ msgstr "価格順（降順）"
+
+#~ msgid "Data de atualizacao (ascendente)"
+#~ msgstr "商品更新日時順（昇順）"
+
+#~ msgid "Data de atualizacao (decrescente)"
+#~ msgstr "商品更新日時順（降順）"
+
+#~ msgid "Padrao do Rakuten"
+#~ msgstr "楽天標準ソート順"
+
+#~ msgid "Nao foi encontrado nenhum produto"
+#~ msgstr "商品が一個も見つかりませんでした。"
+
+#~ msgid "Encontrados %d produto(s)."
+#~ msgstr "%d 個の商品が見つかりました。"
+
+#~ msgid "Inserir"
+#~ msgstr "追加"
+
+#~ msgid "Inserir o codigo"
+#~ msgstr "コードの追加"
+
+#~ msgid "Pesquisar itens"
+#~ msgstr "商品検索"
+
+#~ msgid "Options saved."
+#~ msgstr "保存されました。"
+
+#~ msgid "Rakuten affiliate ID:"
+#~ msgstr "楽天のアフィリエイトID"
+
+#~ msgid "Exemplo"
+#~ msgstr "サンプル"
+
+#~ msgid "Update Options"
+#~ msgstr "オプション更新"
